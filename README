@@ -1,0 +1,7 @@
+This is the source code for a mini calculator which was for my first Visual Basic Assignment. 
+
+Functionality required for this assignment included: 
+
+1. Ability to add,subtract,divide,multiple.
+2. Have three different text boxes, two so that the user could input numbers and the third to display an answer.
+3. A clear function, to erase the contents of three text boxes. 

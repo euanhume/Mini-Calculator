@@ -1,0 +1,13 @@
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Calculator\Mini Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Calculator\Mini Calculator\obj\Debug\Mini_Calculator.Resources.resources
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Calculator\Mini Calculator\obj\Debug\Mini Calculator.vbproj.GenerateResource.Cache
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Calculator\Mini Calculator\bin\Debug\Mini Calculator.exe
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Calculator\Mini Calculator\bin\Debug\Mini Calculator.pdb
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Calculator\Mini Calculator\bin\Debug\Mini Calculator.xml
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Calculator\Mini Calculator\obj\Debug\Mini Calculator.exe
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Calculator\Mini Calculator\obj\Debug\Mini Calculator.xml
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Calculator\Mini Calculator\obj\Debug\Mini Calculator.pdb
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Calculator\Mini Calculator\obj\Debug\Mini_Calculator.Mini_Calculator.resources
+C:\Users\Euan\Documents\Programming for Computing\Mini Calculator\Mini Calculator\obj\Debug\Mini Calculator.exe
+C:\Users\Euan\Documents\Programming for Computing\Mini Calculator\Mini Calculator\obj\Debug\Mini Calculator.xml
+C:\Users\Euan\Documents\Programming for Computing\Mini Calculator\Mini Calculator\obj\Debug\Mini Calculator.pdb
